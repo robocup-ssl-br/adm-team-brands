@@ -36,6 +36,7 @@ This folder is a template to fill the team basic and branding information
 - Instagram: https://www.instagram.com/template.robotics (REMOVE-ME: Team Instagram account (- if not applicable))
 - YouTube: https://www.youtube.com/c/TemplateRobotics (REMOVE-ME: Team YouTube account (- if not applicable))
 - TikTok: https://www.tiktok.com/@template.robotics (REMOVE-ME: Team TikTok account (- if not applicable))
+- LinkedIn: https://www.linkedin.com/company/template-robotics (REMOVE-ME: Team LinkedIn account (- if not applicable))
 
 ## Branding
 - Primary color: ![#2C83D6](https://placehold.co/15x15/2C83D6/2C83D6.png) `#2C83D6` (REMOVE-ME: Team primary color, replace all occurrences)
