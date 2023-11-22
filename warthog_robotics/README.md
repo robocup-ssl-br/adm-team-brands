@@ -10,6 +10,7 @@
 - Instagram: https://www.instagram.com/warthogrobotics
 - YouTube: https://www.youtube.com/c/WarthogRoboticsTV
 - TikTok: -
+- LinkedIn: https://www.linkedin.com/company/warthog-robotics
 
 ## Branding
 - Primary color: ![#BE6A14](https://placehold.co/15x15/BE6A14/BE6A14.png) `#BE6A14`
