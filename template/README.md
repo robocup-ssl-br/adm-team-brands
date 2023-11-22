@@ -18,7 +18,8 @@ This folder is a template to fill the team basic and branding information
 
 ### Procedure
 - Create a Git branch from the *main* naming it info/your_team_safe_name (e.g. *info/template_robotics*)
-- Add or modify all the information
+- Make a copy of the *template* folder and name it with your team safe name
+- Add or modify all the information to this new folder
 - Commit them
 - Create a pull request in GitHub from your branch back to *main*
 - A member of the OC will review the information and respond accordingly (approving the request or asking for modifications)
