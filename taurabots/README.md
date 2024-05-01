@@ -1,4 +1,4 @@
-# RobôCIn
+# Taura Bots
 ### Team information
 - Name: TauraBots
 - Usual name: TauraBots
