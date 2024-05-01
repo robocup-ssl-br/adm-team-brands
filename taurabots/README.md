@@ -13,7 +13,6 @@
 - LinkedIn: https://www.linkedin.com/company/taurabots
 
 ## Branding
-- Primary color: ![#469C57](https://placehold.co/15x15/469C57/469C57.png) `#469C57`
-- Secondary color: ![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9` 
+- Primary color: ![#373535](https://placehold.co/15x15/373535/373535.png) `#373535`
+- Secondary color: ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF` 
 - Primary logo: Horizontal
-- Guidelines: [Brand Manual](https://drive.google.com/file/d/12KQhLZm7lmYWIkskkscVzr2hQm2L88uy/view?usp=sharing)
