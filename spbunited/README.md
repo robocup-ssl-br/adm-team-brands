@@ -12,4 +12,4 @@
 ## Branding
 - Primary color: ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`
 - Secondary color: ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
-- Primary logo: Horizontal
+- Primary logo: Vertical
