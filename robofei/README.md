@@ -1,7 +1,7 @@
 # RoboFEI
-### Team information
+## Team information
 - Name: RoboFEI
-- USUAL NAME: ROBOFEI
+- Usual name: ROBOFEI
 - Affiliation: Centro Universitário FEI (FEI)
 
 
