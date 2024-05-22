@@ -1,5 +1,5 @@
 # SPbUnited
-### Team information
+## Team information
 - Name: SPbUnited
 - Usual name: SPbUnited
 - Affiliation: Saint Petersburg Lyceum 239, IPME RAS
