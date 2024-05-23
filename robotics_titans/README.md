@@ -1,6 +1,6 @@
 # Robotic Titans
 ## Team information
-- Name: Robotic Titans
+- Name: Equipe de Robótica Titans
 - Usual name: Titans
 - Affiliation: Universidade de Brasília
 
