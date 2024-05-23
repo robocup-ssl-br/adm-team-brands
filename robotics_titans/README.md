@@ -10,7 +10,7 @@
 - Instagram: https://www.instagram.com/robotictitans/
 - YouTube: -
 - TikTok: -
-- LinkedIn: contato.titansteam@gmail.com
+- LinkedIn: -
 
 ## Branding
 - Primary color: ![#C72612](https://placehold.co/15x15/C72612/C72612.png) `#C72612`
