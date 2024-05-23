@@ -10,7 +10,7 @@
 - Instagram: https://www.instagram.com/robotictitans/
 - YouTube: -
 - TikTok: -
-- LinkedIn: -
+- LinkedIn: https://www.linkedin.com/company/titans-equipe-de-rob%C3%B3tica/
 
 ## Branding
 - Primary color: ![#C72612](https://placehold.co/15x15/C72612/C72612.png) `#C72612`
