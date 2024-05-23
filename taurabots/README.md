@@ -1,5 +1,5 @@
 # Taura Bots
-### Team information
+## Team information
 - Name: Taura Bots
 - Usual name: Taura Bots
 - Affiliation: Universidade Federal de Santa Maria (UFSM)
@@ -9,7 +9,6 @@
 - Facebook: https://www.facebook.com/taurabots
 - Instagram: https://www.instagram.com/taurabots
 - YouTube: https://www.youtube.com/@taurabots
-- TikTok: -
 - LinkedIn: https://www.linkedin.com/company/taurabots
 
 ## Branding
