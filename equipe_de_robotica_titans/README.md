@@ -1,4 +1,4 @@
-# Robotic Titans
+# Equipe de Robótica Titans
 ## Team information
 - Name: Equipe de Robótica Titans
 - Usual name: Titans
