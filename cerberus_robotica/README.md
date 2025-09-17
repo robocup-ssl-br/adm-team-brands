@@ -11,6 +11,6 @@
 - YouTube: https://www.youtube.com/@CerberusRobotica
 
 ## Branding
-- Primary color: ![#2C83D6](https://placehold.co/15x15/2C83D6/2C83D6.png) `#2C83D6` (REMOVE-ME: Team primary color, replace all occurrences)
-- Secondary color: ![#312F30](https://placehold.co/15x15/312F30/312F30.png) `#312F30` (REMOVE-ME: Team secondary color, replace all occurrences)
-- Primary logo: Horizontal (REMOVE-ME: Icon, horizontal or vertical)
+- Primary color: ![#341959](https://placehold.co/15x15/341959/341959.png) `#341959`
+- Secondary color: ![#f25d07](https://placehold.co/15x15/f25d07/f25d07.png) `#f25d07`
+- Primary logo: Icon
