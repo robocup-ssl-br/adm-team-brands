@@ -1,5 +1,4 @@
 # Cerberus Robótica
-
 ## Team information
 - Name: Cerberus Robótica
 - Usual Name: Cerberus
