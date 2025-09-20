@@ -1,5 +1,5 @@
 # UnBall - Futebol de Robôs
-### Team information
+## Team information
 - Name: Unball - Futebol de Robôs
 - Usual name: UnBall
 - Affiliation: Universidade de Brasília (UnB)
