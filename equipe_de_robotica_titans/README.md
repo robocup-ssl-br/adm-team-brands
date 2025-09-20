@@ -5,11 +5,8 @@
 - Affiliation: Universidade de Brasília
 
 ## Social media
-- Website: -
-- Facebook: -
 - Instagram: https://www.instagram.com/robotictitans/
 - YouTube: https://www.youtube.com/@titansunb-fga5261
-- TikTok: -
 - LinkedIn: https://www.linkedin.com/company/titans-equipe-de-rob%C3%B3tica/
 
 ## Branding
