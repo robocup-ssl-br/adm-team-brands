@@ -9,7 +9,6 @@
 - Facebook: https://www.facebook.com/itandroids
 - Instagram: https://www.instagram.com/itandroids/
 - YouTube: https://www.youtube.com/@ITAndroids
-- TikTok: -
 - LinkedIn: https://www.linkedin.com/company/itandroids/
 
 ## Branding
