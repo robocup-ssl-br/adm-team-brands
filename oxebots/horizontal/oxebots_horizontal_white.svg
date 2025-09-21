@@ -8,11 +8,11 @@
    y="0px"
    viewBox="0 0 500.00001 200"
    xml:space="preserve"
-   sodipodi:docname="11. Oxe_Horizontal_New.svg"
+   sodipodi:docname="oxebots_horizontal_white.svg"
    width="500"
    height="200"
-   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
-   inkscape:export-filename="../18ba7b81/12. Oxe_Horizontal_New"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="oxebots_horizontal_white.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -20,25 +20,27 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:ns="&amp;#38;ns_ai;"><defs
+   xmlns:ns1="&amp;#38;#38;#38;#38;#38;ns_ai;"><defs
    id="defs15" /><sodipodi:namedview
    id="namedview15"
-   pagecolor="#ffffff"
+   pagecolor="#000000"
    bordercolor="#000000"
-   borderopacity="0.25"
+   borderopacity="0"
    inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.95379496"
-   inkscape:cx="266.82884"
-   inkscape:cy="168.27516"
-   inkscape:window-width="2560"
-   inkscape:window-height="1011"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#c2c2c2"
+   inkscape:zoom="1.7639563"
+   inkscape:cx="226.76298"
+   inkscape:cy="135.20743"
+   inkscape:window-width="1366"
+   inkscape:window-height="699"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g15" />
+   inkscape:current-layer="Camada_1"
+   inkscape:export-bgcolor="#00000000"
+   showgrid="false" />
 <style
    type="text/css"
    id="style1">
@@ -55,99 +57,118 @@
    y="0"
    width="1"
    height="1">
-		<ns:aipgfRef
+		<ns1:aipgfRef
    xlink:href="#adobe_illustrator_pgf">
-		</ns:aipgfRef>
+		</ns1:aipgfRef>
 	</foreignObject>
 	<g
-   ns:extraneous="self"
+   ns1:extraneous="self"
    id="g15">
 		<g
    id="g8"
-   transform="matrix(0.5311617,0,0,0.5311617,75.724166,198.71711)">
+   transform="matrix(0.5311617,0,0,0.5311617,75.724166,198.71711)"
+   style="fill:#ffffff;fill-opacity:1;stroke:none">
 			<path
    d="m 192.8,430.3 -18.1,1.6 -2,28.8 22.2,-1.4 z m -14,24.8 v -17.6 l 8.6,-1.3 3.2,17.9 z"
-   id="path1" />
+   id="path1"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<polygon
    class="st0"
    points="198.2,429.1 206.5,445.4 198.2,460.3 205.6,460.3 209.8,451.8 213.8,459.5 219.3,459.5 213,445.4 220.7,429.9 215.1,429.9 210.1,438.9 205.8,429.1 "
-   id="polygon1" />
+   id="polygon1"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<polygon
    class="st0"
    points="228.6,446.4 237.1,445.6 237.5,444.5 228.9,443.7 229.8,433.9 240.6,434.2 242,431.5 225.4,430.7 225.4,431.2 224,459.9 225.1,459.9 225.1,460 240.4,460.2 240.7,457.1 229,456.6 "
-   id="polygon2" />
+   id="polygon2"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    class="st1"
    d="m 244.5,424.8 h -72.8 v -37.9 c 0,-7.8 6.3,-14.1 14.1,-14.1 h 44.7 c 7.8,0 14.1,6.3 14.1,14.1 v 37.9 z"
-   id="path2" />
+   id="path2"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    class="st0"
    d="m 264.7,489.1 h -13.3 c -1.9,0 -3.5,-1.6 -3.5,-3.5 v -29.4 c 0,-1.9 1.6,-3.5 3.5,-3.5 h 13.3 c 1.9,0 3.5,1.6 3.5,3.5 v 29.4 c 0,1.9 -1.5,3.5 -3.5,3.5 z"
-   id="path3" />
+   id="path3"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    class="st0"
    d="m 163.2,489.1 h -13.3 c -1.9,0 -3.5,-1.6 -3.5,-3.5 v -29.4 c 0,-1.9 1.6,-3.5 3.5,-3.5 h 13.3 c 1.9,0 3.5,1.6 3.5,3.5 v 29.4 c -0.1,1.9 -1.6,3.5 -3.5,3.5 z"
-   id="path4" />
+   id="path4"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<g
-   id="g7">
+   id="g7"
+   style="fill:#ffffff;fill-opacity:1;stroke:none">
 				<g
-   id="g6">
+   id="g6"
+   style="fill:#ffffff;fill-opacity:1;stroke:none">
 					<path
    class="st2"
-   d="m 245.6,464.5 c -0.1,-1 -0.5,-1.3 -1.5,-1.4 -0.3,0 -0.7,0 -1,0 h -35.8 v 0 c -12.1,0 -24.2,0 -36.3,0 -1.8,0 -2.1,0.2 -2.1,1.9 -0.1,4.2 -0.1,8.4 -0.2,12.6 0,1.3 0.5,1.8 2,1.9 1.1,0.1 2.1,0 3.2,0 23,0 46.1,0.1 69.1,0.1 2.2,0 2.6,-0.4 2.6,-2.4 0,-4 0.1,-8 0.1,-12 0,-0.3 0,-0.5 -0.1,-0.7 z m -1.8,11.5 c 0,1.8 0,1.8 -1.9,1.8 -11.5,0 -23.1,0 -34.7,0 v 0 h -34.8 c -0.3,0 -0.6,0 -0.8,0 -0.8,0 -1.1,-0.4 -1.1,-1.1 0,-0.8 0,-1.7 0,-2.5 0,-2.6 0,-5.3 0,-7.9 0,-1.4 0.1,-1.5 1.7,-1.5 10.3,0 20.5,0 30.8,0 13,0 25.9,0 38.9,0 0.3,0 0.6,0 0.8,0 0.8,0 1.1,0.3 1.1,1 v 1.3 c 0,2.9 0,5.9 0,8.9 z"
-   id="path5" />
-					<path
-   class="st1"
-   d="m 207.3,477.8 c -11.6,0 -23.2,0 -34.8,0 -0.3,0 -0.6,0 -0.8,0 -0.8,0 -1.1,-0.4 -1.1,-1.1 0,-0.8 0,-1.7 0,-2.5 0,-2.6 0,-5.3 0,-7.9 0,-1.4 0.1,-1.5 1.7,-1.5 10.3,0 20.5,0 30.8,0 13,0 25.9,0 38.9,0 0.3,0 0.6,0 0.8,0 0.8,0 1.2,0.3 1.1,1 0,0.4 0,0.8 0,1.3 0,3 0,6 0,9 0,1.8 0,1.8 -1.9,1.8 -11.6,-0.1 -23.2,-0.1 -34.7,-0.1 z"
-   id="path6" />
+   d="m 245.6,464.5 c -0.1,-1 -0.5,-1.3 -1.5,-1.4 h -1 -35.8 v 0 H 171 c -1.8,0 -2.1,0.2 -2.1,1.9 -0.1,4.2 -0.1,8.4 -0.2,12.6 0,1.3 0.5,1.8 2,1.9 1.1,0.1 2.1,0 3.2,0 23,0 46.1,0.1 69.1,0.1 2.2,0 2.6,-0.4 2.6,-2.4 0,-4 0.1,-8 0.1,-12 0,-0.3 0,-0.5 -0.1,-0.7 z"
+   id="path5"
+   style="fill:#ffffff;fill-opacity:1;stroke:none"
+   sodipodi:nodetypes="cccccscccssssc" />
+					
 				</g>
 			</g>
 			<polygon
    class="st0"
    points="225,370.3 227,358.6 229.5,358.6 231.6,370.3 "
-   id="polygon7" />
+   id="polygon7"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<circle
    cx="225"
    cy="400.79999"
    r="8.3999996"
-   id="circle7" />
+   id="circle7"
+   style="fill:#000000;fill-opacity:1;stroke:none" />
 			<circle
    cx="190.60001"
    cy="400.79999"
    r="8.3999996"
-   id="circle8" />
+   id="circle8"
+   style="fill:#000000;fill-opacity:1;stroke:none" />
 		</g>
 		<g
    id="g14"
-   transform="matrix(1.1820694,0,0,1.3915126,-103.7551,-160.85983)">
+   transform="matrix(1.1820694,0,0,1.3915126,-103.7551,-160.85983)"
+   style="fill:#ffffff;fill-opacity:1;stroke:none">
 			<path
    d="m 281,401.8 h 31.5 l -4.4,40.8 -23,1.6 z m 10.9,34.7 10.9,-1.6 2.8,-24.8 -17.4,1.3 z"
-   id="path8" />
+   id="path8"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 339,444.5 -9.7,-13.6 -8.1,12.7 -8.3,0.5 11.9,-19 -9.3,-22.8 5.5,-0.5 9.6,15.2 8.4,-14.8 4.7,0.4 -8.9,22.4 12.5,19.5 z"
-   id="path9" />
+   id="path9"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 377.3,407.9 -14.4,1 -1.6,11.1 16,1.2 v 4.5 l -14.7,2 1.4,10 13.8,0.3 0.3,4.9 -22,1.6 -2.5,-42.7 24.6,0.5 z"
-   id="path10" />
+   id="path10"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 404.9,420.4 11,5.3 -4,19.2 -25.1,-1 -2.6,-42.1 25.5,0.4 z m -2.7,-11.6 -12.7,1.4 3,9 h 5.6 z m 2.7,30.5 3.5,-10.1 -16.8,-2.1 2.9,12 z"
-   id="path11" />
+   id="path11"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 420.9,401.8 h 31.5 l -4.4,40.8 -23,1.6 z m 10.9,34.7 10.9,-1.6 2.8,-24.8 -17.4,1.3 z"
-   id="path12" />
+   id="path12"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 464.4,409.7 -10,0.8 1.2,-8.4 23.9,0.2 v 6.1 l -8.6,0.8 0.8,35.2 h -10.1 z"
-   id="path13" />
+   id="path13"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 			<path
    d="m 492.5,409.6 1.2,12.1 16,-1.4 0.8,23.9 -24.7,0.4 0.4,-3.7 15.3,-3.3 0.8,-9 -15.7,1.3 -1.6,-28 22.2,0.4 -0.4,5.8 z"
-   id="path14" />
+   id="path14"
+   style="fill:#ffffff;fill-opacity:1;stroke:none" />
 		</g>
 	</g>
 </switch>
-<ns:aipgf
+<ns1:aipgf
    id="adobe_illustrator_pgf"
-   ns:pgfEncoding="zstd/base64"
-   ns:pgfVersion="24">
+   ns1:pgfEncoding="zstd/base64"
+   ns1:pgfVersion="24">
 	<![CDATA[
 	KLUv/QBYPPoDbrmFHwwrsNhsCm1AFyML1IaMWCUMOpObxGOz3zsS07S5sntvXzPXLYz6gz6v7KcE
 F/sPwArNCp+6xNlRdEoL88p45EPptaNem1pWjUlWb/De26Xc8aLJWA/J9zGsHDuO6G5w7n70FLvj
@@ -8090,5 +8111,5 @@ jGmhP5zo/3NsFBxBzeK1efxxSE2FbJkNkyM3AE6Aj9iCZ7qIcOIhCPFDY5NZxzbDJbF0DErmWvem
 AfciwRhntJAld87hWhEH2ozfngOrRLgs6lxKfjEROyXUqyMMF9ymWMMuu37OR0LljXQzcS2jG+vJ
 QB6792bgtwSQsh+Eyy/gcAY=
 	]]>
-</ns:aipgf>
+</ns1:aipgf>
 </svg>
