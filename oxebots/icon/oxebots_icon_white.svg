@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Camada_2"
+   data-name="Camada 2"
+   viewBox="0 0 237.52 254.26"
+   version="1.1"
+   sodipodi:docname="7. Oxe_Icon_BlackWhite.svg"
+   inkscape:export-filename="../bb7aa9cf/8. Oxe_Icon_BlackWhite"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.4099475"
+     inkscape:cx="63.901807"
+     inkscape:cy="162.03672"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5"
+     inkscape:export-bgcolor="#000000ff"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #f39200;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #1d1d1b;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g
+     id="Camada_1-2"
+     data-name="Camada 1">
+    <g
+       id="g5">
+      <path
+         class="cls-2"
+         d="m90.66,139.66l-35.04,3.06-3.84,55.91,43-2.73-4.12-56.24Zm-27.22,48.14v-34.14l16.66-2.62,6.24,34.66-22.9,2.1Z"
+         id="path1"
+         style="stroke-width:1;stroke-dasharray:none;stroke:none;stroke-opacity:1;fill:#ffffff" />
+      <polygon
+         class="cls-3"
+         points="144.74 138.85 134.01 138.85 124.29 156.35 115.83 137.27 101.13 137.27 117.29 168.94 101.13 198.02 115.53 198.02 123.7 181.48 131.33 196.44 142.06 196.44 129.88 168.96 144.74 138.85"
+         id="polygon1"
+         style="fill:#ffffff;stroke:none" />
+      <polygon
+         class="cls-3"
+         points="160.97 190.77 160.19 170.92 176.7 169.41 177.49 167.31 160.63 165.73 162.49 146.61 183.36 147.28 186.13 141.98 153.87 140.46 153.87 141.53 151.1 197.12 153.35 197.12 153.24 197.26 182.93 197.83 183.62 191.72 160.97 190.77"
+         id="polygon2"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         class="cls-1"
+         d="m63.63,28.14h113.31c7.76,0,14.05,6.3,14.05,14.05v86.78H49.58V42.19c0-7.76,6.3-14.05,14.05-14.05Z"
+         id="path2"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-3"
+         x="197.68"
+         y="183.26"
+         width="39.34"
+         height="70.49"
+         rx="3.46"
+         ry="3.46"
+         id="rect2"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         class="cls-3"
+         x=".5"
+         y="183.26"
+         width="39.34"
+         height="70.49"
+         rx="3.46"
+         ry="3.46"
+         id="rect3"
+         style="fill:#ffffff;stroke:none" />
+      <g
+         id="g4"
+         style="fill:#ffffff">
+        <path
+           class="cls-5"
+           d="m 193.2,206.11 c -0.29,-1.93 -0.88,-2.49 -2.87,-2.72 -0.66,-0.08 -1.31,-0.06 -1.97,-0.06 H 118.8 v -0.06 c -23.52,0 -47.02,0 -70.53,0.01 -3.56,0 -4.07,0.33 -4.15,3.62 -0.19,8.17 -0.27,16.35 -0.3,24.52 0,2.58 1,3.44 3.81,3.59 2.07,0.12 4.16,0.05 6.23,0.05 44.73,0.08 89.46,0.15 134.2,0.22 4.2,0 4.97,-0.7 5.02,-4.65 0.1,-7.76 0.15,-15.52 0.21,-23.28 0.01,-0.41 -0.01,-0.82 -0.07,-1.23 z"
+           id="path3"
+           style="fill:#ffffff"
+           sodipodi:nodetypes="ccscccccccccccc" />
+      </g>
+      <polygon
+         class="cls-3"
+         points="153.13 23.24 157.05 .5 161.93 .5 165.85 23.24 153.13 23.24"
+         id="polygon4"
+         style="fill:#ffffff;stroke:none" />
+      <circle
+         class="cls-4"
+         cx="153.13"
+         cy="82.39"
+         r="16.32"
+         id="circle4"
+         style="fill:#000000;fill-opacity:1" />
+      <circle
+         class="cls-4"
+         cx="86.34"
+         cy="82.39"
+         r="16.32"
+         id="circle5"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
